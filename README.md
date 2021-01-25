@@ -3,4 +3,8 @@
 
 🌏 In love with aviation and anime 😊
 
+Leetcode: https://leetcode.com/giyu
+
+Codesignal: https://app.codesignal.com/profile/giyu
+
 💬 Feel free to contact via LinkedIn https://www.linkedin.com/in/DaniyarA
