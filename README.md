@@ -7,4 +7,4 @@ Leetcode: https://leetcode.com/giyu
 
 Codesignal: https://app.codesignal.com/profile/giyu
 
-💬 Feel free to contact via LinkedIn https://www.linkedin.com/in/DaniyarA or or Telegram: https://t.me/DaniyarAl
+💬 Feel free to contact via LinkedIn https://www.linkedin.com/in/DaniyarA or Telegram: https://t.me/DaniyarAl
