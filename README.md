@@ -1,6 +1,8 @@
 ### Hi there 👋
 ✈️ I'm Daniyar and I'm a T-Shaped software engineer primarily focused on backend development.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ich1goSan&rank_icon=github&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
